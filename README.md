@@ -178,15 +178,15 @@ print(connection.vendor)
 
 postgresql
 ```
-![ERD image](./img/erd.png)
+![ERD image](raw.githubusercontent.com/web-midterm/img/erd.png)
 
 # Commit history and screenshots
-![Commit history](./img/Screenshot from 2023-03-28 14-30-36.png)
-![photo-1](./img/Screenshot from 2023-03-28 14-30-28.png)
-![photo-2](./img/Screenshot from 2023-03-28 14-30-34.png)
-![photo-3](./img/Screenshot from 2023-03-28 14-30-44.png)
-![photo-4](./img/Screenshot from 2023-03-28 14-31-31.png)
+![Commit history](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-36.png)
+![photo-1](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-28.png)
+![photo-2](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-34.png)
+![photo-3](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-44.png)
+![photo-4](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-31-31.png)
 
 __runed on local seruver__
-![photo-5](./img/Screenshot from 2023-03-28 14-32-24.png)
+![photo-5](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-32-24.png)
 
