@@ -171,7 +171,7 @@ zeep==4.2.1
 ```
 
 ## database type and ERD image
-You can find erd image in 
+You can find erd image in img directory
 ```
 from django.db import connection
 print(connection.vendor)
