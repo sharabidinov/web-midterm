@@ -181,12 +181,12 @@ postgresql
 ![ERD image](img/erd.png)
 
 # Commit history and screenshots
-![Commit history](img/Screenshot from 2023-03-28 14-30-36.png)
-![photo-1](./img/Screenshot from 2023-03-28 14-30-28.png)
-![photo-2](./img/Screenshot from 2023-03-28 14-30-34.png)
-![photo-3](./img/Screenshot from 2023-03-28 14-30-44.png)
-![photo-4](./img/Screenshot from 2023-03-28 14-31-31.png)
+![Commit history](img/git_history.png)
+![photo-1](./img/photo_1.png)
+![photo-2](./img/photo_2.png)
+![photo-3](./img/photo_3.png)
+![photo-4](./img/photo_4.png)
 
 __runed on local server__
-![photo-5](./img/Screenshot from 2023-03-28 14-32-24.png)
+![photo-5](./img/photo_5.png)
 
