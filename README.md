@@ -183,6 +183,7 @@ postgresql
 # Commit history and screenshots
 ![Commit history](img/git_history.png)
 ![photo-1](./img/photo_1.png)
+
 __apps located in core direcotry__
 ![photo-2](./img/photo_2.png)
 ![photo-3](./img/photo_3.png)
