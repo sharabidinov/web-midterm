@@ -178,15 +178,15 @@ print(connection.vendor)
 
 postgresql
 ```
-![ERD image](raw.githubusercontent.com/web-midterm/img/erd.png)
+![ERD image](https://raw.githubusercontent.com/web-midterm/img/erd.png)
 
 # Commit history and screenshots
-![Commit history](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-36.png)
-![photo-1](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-28.png)
-![photo-2](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-34.png)
-![photo-3](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-44.png)
-![photo-4](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-31-31.png)
+![Commit history](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-36.png)
+![photo-1](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-28.png)
+![photo-2](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-34.png)
+![photo-3](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-30-44.png)
+![photo-4](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-31-31.png)
 
 __runed on local seruver__
-![photo-5](raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-32-24.png)
+![photo-5](https://raw.githubusercontent.com/web-midterm/img/Screenshot from 2023-03-28 14-32-24.png)
 
